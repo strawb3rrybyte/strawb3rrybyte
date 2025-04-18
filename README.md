@@ -1,4 +1,5 @@
 🌸 Welcome to my cozy corner of GitHub! 🌸
+
 Hey there! I'm Farah — a curious coder, pixel pusher, snack enthusiast, and professional bug squasher (sometimes I even squash the right ones 😉).
 With a background in Food & Nutrition, I bring a fresh perspective to tech — one that blends creativity, empathy, and a love for all things well-designed (and well-plated 🍽️). 
 This is my digital playground where I build, break, and occasionally beautify cool things that make life a little tastier and a lot more accessible.
