@@ -5,6 +5,7 @@ With a background in Food & Nutrition, I bring a fresh perspective to tech — o
 This is my digital playground where I build, break, and occasionally beautify cool things that make life a little tastier and a lot more accessible.
 
 🧁 About Me
+
 🧠 Tech I love: React, Next.js, TypeScript, Tailwind CSS, Node.js, MongoDB, and a bit of Python for good measure!
 
 🍪 Outside of code: I’m probably in the kitchen experimenting with new recipes, baking something sweet, or hitting the gym to balance it all out 🏋️‍♀️
